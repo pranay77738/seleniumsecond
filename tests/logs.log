@@ -1,0 +1,201 @@
+2022-02-08 14:47:31,629 :INFO :test_ene :getting all the card titles
+2022-02-08 14:47:32,672 :INFO :test_ene :[<selenium.webdriver.remote.webelement.WebElement (session="0995defe49bd64ee90bdd07d3c625b32", element="d40eb15a-e420-418a-90f8-89b941293f4f")>, <selenium.webdriver.remote.webelement.WebElement (session="0995defe49bd64ee90bdd07d3c625b32", element="8b6d7fbd-a621-41e6-9f38-8cea0fad4f76")>, <selenium.webdriver.remote.webelement.WebElement (session="0995defe49bd64ee90bdd07d3c625b32", element="953faa66-a488-4e17-bc9a-656ad05bec18")>, <selenium.webdriver.remote.webelement.WebElement (session="0995defe49bd64ee90bdd07d3c625b32", element="67687676-fd67-42d1-bc0b-eab270df8b7e")>]
+2022-02-08 14:47:33,160 :INFO :test_ene :entering country name as ind
+2022-02-08 14:47:39,129 :INFO :test_ene :text received from the browser×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-02-08 14:50:13,441 :INFO :test_ene :getting all the card titles
+2022-02-08 14:50:50,108 :INFO :test_ene :getting all the card titles
+2022-02-08 14:50:51,132 :INFO :test_ene :<selenium.webdriver.remote.webelement.WebElement (session="85a93518a2168018ab6ded8ec7aa699b", element="07bafd21-c8b6-413b-8619-e6108edeff4a")>
+2022-02-08 14:50:51,261 :INFO :test_ene :<selenium.webdriver.remote.webelement.WebElement (session="85a93518a2168018ab6ded8ec7aa699b", element="c88bdd78-c157-4c5c-a610-1212bd6d224b")>
+2022-02-08 14:50:51,307 :INFO :test_ene :<selenium.webdriver.remote.webelement.WebElement (session="85a93518a2168018ab6ded8ec7aa699b", element="20be4911-4074-46aa-85a2-0de12617f5d4")>
+2022-02-08 14:50:51,335 :INFO :test_ene :<selenium.webdriver.remote.webelement.WebElement (session="85a93518a2168018ab6ded8ec7aa699b", element="2c5b6e22-48ac-4184-951d-5047cd496d36")>
+2022-02-08 14:50:51,630 :INFO :test_ene :entering country name as ind
+2022-02-08 14:50:57,538 :INFO :test_ene :text received from the browser×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-02-08 14:51:56,471 :INFO :test_ene :getting all the card titles
+2022-02-08 14:51:57,561 :INFO :test_ene :iphone X
+2022-02-08 14:51:57,775 :INFO :test_ene :Samsung Note 8
+2022-02-08 14:51:57,838 :INFO :test_ene :Nokia Edge
+2022-02-08 14:51:57,893 :INFO :test_ene :Blackberry
+2022-02-08 14:51:58,262 :INFO :test_ene :entering country name as ind
+2022-02-08 14:52:04,353 :INFO :test_ene :text received from the browser×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-02-08 14:55:57,417 :INFO :test_homepage :Name is Pranay
+2022-02-08 14:55:57,418 :INFO :test_homepage :Email is pranay.ravula@gmail.com
+2022-02-08 14:55:57,419 :INFO :test_homepage :Password is Pranay@12
+2022-02-08 14:55:59,393 :INFO :test_homepage :Name is Uday
+2022-02-08 14:55:59,393 :INFO :test_homepage :Name is Uday
+2022-02-08 14:55:59,394 :INFO :test_homepage :Email is uday.ravula@gmail.com
+2022-02-08 14:55:59,394 :INFO :test_homepage :Email is uday.ravula@gmail.com
+2022-02-08 14:55:59,394 :INFO :test_homepage :Password is Uday@12
+2022-02-08 14:55:59,394 :INFO :test_homepage :Password is Uday@12
+2022-02-08 17:22:02,427 :INFO :test_ene :getting all the card titles
+2022-02-08 17:22:03,481 :INFO :test_ene :iphone X
+2022-02-08 17:22:03,544 :INFO :test_ene :Samsung Note 8
+2022-02-08 17:22:03,566 :INFO :test_ene :Nokia Edge
+2022-02-08 17:22:03,583 :INFO :test_ene :Blackberry
+2022-02-08 17:22:03,692 :INFO :test_ene :entering country name as ind
+2022-02-08 17:22:09,100 :INFO :test_ene :text received from the browser×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-02-08 17:22:12,170 :INFO :test_homepage :Name is Pranay
+2022-02-08 17:22:12,170 :INFO :test_homepage :Email is pranay.ravula@gmail.com
+2022-02-08 17:22:12,170 :INFO :test_homepage :Password is Pranay@12
+2022-02-08 17:22:12,930 :INFO :test_homepage :Name is Uday
+2022-02-08 17:22:12,930 :INFO :test_homepage :Name is Uday
+2022-02-08 17:22:12,930 :INFO :test_homepage :Email is uday.ravula@gmail.com
+2022-02-08 17:22:12,930 :INFO :test_homepage :Email is uday.ravula@gmail.com
+2022-02-08 17:22:12,930 :INFO :test_homepage :Password is Uday@12
+2022-02-08 17:22:12,930 :INFO :test_homepage :Password is Uday@12
+2022-02-08 17:25:19,677 :INFO :test_ene :getting all the card titles
+2022-02-08 17:25:20,720 :INFO :test_ene :iphone X
+2022-02-08 17:25:20,785 :INFO :test_ene :Samsung Note 8
+2022-02-08 17:25:20,808 :INFO :test_ene :Nokia Edge
+2022-02-08 17:25:20,824 :INFO :test_ene :Blackberry
+2022-02-08 17:25:20,934 :INFO :test_ene :entering country name as ind
+2022-02-08 17:25:26,344 :INFO :test_ene :text received from the browser×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-02-08 17:25:29,332 :INFO :test_homepage :Name is Pranay
+2022-02-08 17:25:29,332 :INFO :test_homepage :Email is pranay.ravula@gmail.com
+2022-02-08 17:25:29,332 :INFO :test_homepage :Password is Pranay@12
+2022-02-08 17:25:30,061 :INFO :test_homepage :Name is Uday
+2022-02-08 17:25:30,061 :INFO :test_homepage :Name is Uday
+2022-02-08 17:25:30,061 :INFO :test_homepage :Email is uday.ravula@gmail.com
+2022-02-08 17:25:30,061 :INFO :test_homepage :Email is uday.ravula@gmail.com
+2022-02-08 17:25:30,061 :INFO :test_homepage :Password is Uday@12
+2022-02-08 17:25:30,061 :INFO :test_homepage :Password is Uday@12
+2022-02-08 21:20:34,657 :INFO :test_ene :getting all the card titles
+2022-02-08 21:20:35,695 :INFO :test_ene :iphone X
+2022-02-08 21:20:35,759 :INFO :test_ene :Samsung Note 8
+2022-02-08 21:20:35,777 :INFO :test_ene :Nokia Edge
+2022-02-08 21:20:35,793 :INFO :test_ene :Blackberry
+2022-02-08 21:20:35,916 :INFO :test_ene :entering country name as ind
+2022-02-08 21:20:41,295 :INFO :test_ene :text received from the browser×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-02-08 21:20:44,750 :INFO :test_homepage :Name is Pranay
+2022-02-08 21:20:44,750 :INFO :test_homepage :Email is pranay.ravula@gmail.com
+2022-02-08 21:20:44,750 :INFO :test_homepage :Password is Pranay@12
+2022-02-08 21:20:45,518 :INFO :test_homepage :Name is Uday
+2022-02-08 21:20:45,518 :INFO :test_homepage :Name is Uday
+2022-02-08 21:20:45,518 :INFO :test_homepage :Email is uday.ravula@gmail.com
+2022-02-08 21:20:45,518 :INFO :test_homepage :Email is uday.ravula@gmail.com
+2022-02-08 21:20:45,518 :INFO :test_homepage :Password is Uday@12
+2022-02-08 21:20:45,518 :INFO :test_homepage :Password is Uday@12
+2022-02-08 21:29:51,478 :INFO :test_ene :getting all the card titles
+2022-02-08 21:29:52,515 :INFO :test_ene :iphone X
+2022-02-08 21:29:52,581 :INFO :test_ene :Samsung Note 8
+2022-02-08 21:29:52,597 :INFO :test_ene :Nokia Edge
+2022-02-08 21:29:52,614 :INFO :test_ene :Blackberry
+2022-02-08 21:29:52,724 :INFO :test_ene :entering country name as ind
+2022-02-08 21:29:58,097 :INFO :test_ene :text received from the browser×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-02-08 21:30:01,300 :INFO :test_homepage :Name is Pranay
+2022-02-08 21:30:01,300 :INFO :test_homepage :Email is pranay.ravula@gmail.com
+2022-02-08 21:30:01,300 :INFO :test_homepage :Password is Pranay@12
+2022-02-08 21:30:02,036 :INFO :test_homepage :Name is Uday
+2022-02-08 21:30:02,036 :INFO :test_homepage :Name is Uday
+2022-02-08 21:30:02,036 :INFO :test_homepage :Email is uday.ravula@gmail.com
+2022-02-08 21:30:02,036 :INFO :test_homepage :Email is uday.ravula@gmail.com
+2022-02-08 21:30:02,036 :INFO :test_homepage :Password is Uday@12
+2022-02-08 21:30:02,036 :INFO :test_homepage :Password is Uday@12
+2022-02-08 21:31:59,483 :INFO :test_ene :getting all the card titles
+2022-02-08 21:32:00,527 :INFO :test_ene :iphone X
+2022-02-08 21:32:00,592 :INFO :test_ene :Samsung Note 8
+2022-02-08 21:32:00,612 :INFO :test_ene :Nokia Edge
+2022-02-08 21:32:00,629 :INFO :test_ene :Blackberry
+2022-02-08 21:32:00,742 :INFO :test_ene :entering country name as ind
+2022-02-08 21:32:06,150 :INFO :test_ene :text received from the browser×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-02-08 21:32:09,806 :INFO :test_homepage :Name is Pranay
+2022-02-08 21:32:09,806 :INFO :test_homepage :Email is pranay.ravula@gmail.com
+2022-02-08 21:32:09,807 :INFO :test_homepage :Password is Pranay@12
+2022-02-08 21:32:10,550 :INFO :test_homepage :Name is Uday
+2022-02-08 21:32:10,550 :INFO :test_homepage :Name is Uday
+2022-02-08 21:32:10,551 :INFO :test_homepage :Email is uday.ravula@gmail.com
+2022-02-08 21:32:10,551 :INFO :test_homepage :Email is uday.ravula@gmail.com
+2022-02-08 21:32:10,551 :INFO :test_homepage :Password is Uday@12
+2022-02-08 21:32:10,551 :INFO :test_homepage :Password is Uday@12
+2022-02-08 21:41:01,378 :INFO :test_ene :getting all the card titles
+2022-02-08 21:41:02,425 :INFO :test_ene :iphone X
+2022-02-08 21:41:02,496 :INFO :test_ene :Samsung Note 8
+2022-02-08 21:41:02,522 :INFO :test_ene :Nokia Edge
+2022-02-08 21:41:02,546 :INFO :test_ene :Blackberry
+2022-02-08 21:41:02,654 :INFO :test_ene :entering country name as ind
+2022-02-08 21:41:08,067 :INFO :test_ene :text received from the browser×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-02-08 21:41:14,595 :INFO :test_homepage :Name is Pranay
+2022-02-08 21:41:14,595 :INFO :test_homepage :Email is pranay.ravula@gmail.com
+2022-02-08 21:41:14,595 :INFO :test_homepage :Password is Pranay@12
+2022-02-08 21:41:15,755 :INFO :test_homepage :Name is Uday
+2022-02-08 21:41:15,755 :INFO :test_homepage :Name is Uday
+2022-02-08 21:41:15,755 :INFO :test_homepage :Email is uday.ravula@gmail.com
+2022-02-08 21:41:15,755 :INFO :test_homepage :Email is uday.ravula@gmail.com
+2022-02-08 21:41:15,755 :INFO :test_homepage :Password is Uday@12
+2022-02-08 21:41:15,755 :INFO :test_homepage :Password is Uday@12
+2022-02-08 22:36:39,977 :INFO :test_ene :getting all the card titles
+2022-02-08 22:36:41,012 :INFO :test_ene :iphone X
+2022-02-08 22:36:41,080 :INFO :test_ene :Samsung Note 8
+2022-02-08 22:36:41,103 :INFO :test_ene :Nokia Edge
+2022-02-08 22:36:41,119 :INFO :test_ene :Blackberry
+2022-02-08 22:36:41,224 :INFO :test_ene :entering country name as ind
+2022-02-08 22:36:46,664 :INFO :test_ene :text received from the browser×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-02-08 22:36:50,029 :INFO :test_homepage :Name is Pranay
+2022-02-08 22:36:50,030 :INFO :test_homepage :Email is pranay.ravula@gmail.com
+2022-02-08 22:36:50,030 :INFO :test_homepage :Password is Pranay@12
+2022-02-08 22:36:51,315 :INFO :test_homepage :Name is Uday
+2022-02-08 22:36:51,315 :INFO :test_homepage :Name is Uday
+2022-02-08 22:36:51,316 :INFO :test_homepage :Email is uday.ravula@gmail.com
+2022-02-08 22:36:51,316 :INFO :test_homepage :Email is uday.ravula@gmail.com
+2022-02-08 22:36:51,316 :INFO :test_homepage :Password is Uday@12
+2022-02-08 22:36:51,316 :INFO :test_homepage :Password is Uday@12
+2022-02-08 22:57:54,884 :INFO :test_ene :getting all the card titles
+2022-02-08 22:57:55,938 :INFO :test_ene :iphone X
+2022-02-08 22:57:56,004 :INFO :test_ene :Samsung Note 8
+2022-02-08 22:57:56,022 :INFO :test_ene :Nokia Edge
+2022-02-08 22:57:56,038 :INFO :test_ene :Blackberry
+2022-02-08 22:57:56,153 :INFO :test_ene :entering country name as ind
+2022-02-08 22:58:01,555 :INFO :test_ene :text received from the browser×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-02-08 22:58:05,018 :INFO :test_homepage :Name is Pranay
+2022-02-08 22:58:05,018 :INFO :test_homepage :Email is pranay.ravula@gmail.com
+2022-02-08 22:58:05,018 :INFO :test_homepage :Password is Pranay@12
+2022-02-08 22:58:05,739 :INFO :test_homepage :Name is Uday
+2022-02-08 22:58:05,739 :INFO :test_homepage :Name is Uday
+2022-02-08 22:58:05,739 :INFO :test_homepage :Email is uday.ravula@gmail.com
+2022-02-08 22:58:05,739 :INFO :test_homepage :Email is uday.ravula@gmail.com
+2022-02-08 22:58:05,739 :INFO :test_homepage :Password is Uday@12
+2022-02-08 22:58:05,739 :INFO :test_homepage :Password is Uday@12
+2022-02-08 23:21:53,637 :INFO :test_ene :getting all the card titles
+2022-02-08 23:21:54,672 :INFO :test_ene :iphone X
+2022-02-08 23:21:54,736 :INFO :test_ene :Samsung Note 8
+2022-02-08 23:21:54,755 :INFO :test_ene :Nokia Edge
+2022-02-08 23:21:54,772 :INFO :test_ene :Blackberry
+2022-02-08 23:21:54,886 :INFO :test_ene :entering country name as ind
+2022-02-08 23:22:00,285 :INFO :test_ene :text received from the browser×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-02-08 23:22:03,493 :INFO :test_homepage :Name is Pranay
+2022-02-08 23:22:03,493 :INFO :test_homepage :Email is pranay.ravula@gmail.com
+2022-02-08 23:22:03,494 :INFO :test_homepage :Password is Pranay@12
+2022-02-08 23:22:04,248 :INFO :test_homepage :Name is Uday
+2022-02-08 23:22:04,248 :INFO :test_homepage :Name is Uday
+2022-02-08 23:22:04,248 :INFO :test_homepage :Email is uday.ravula@gmail.com
+2022-02-08 23:22:04,248 :INFO :test_homepage :Email is uday.ravula@gmail.com
+2022-02-08 23:22:04,248 :INFO :test_homepage :Password is Uday@12
+2022-02-08 23:22:04,248 :INFO :test_homepage :Password is Uday@12
+2022-02-08 23:27:05,862 :INFO :test_ene :getting all the card titles
+2022-02-08 23:27:06,891 :INFO :test_ene :iphone X
+2022-02-08 23:27:06,952 :INFO :test_ene :Samsung Note 8
+2022-02-08 23:27:06,973 :INFO :test_ene :Nokia Edge
+2022-02-08 23:27:06,989 :INFO :test_ene :Blackberry
+2022-02-08 23:27:07,101 :INFO :test_ene :entering country name as ind
+2022-02-08 23:27:12,521 :INFO :test_ene :text received from the browser×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-02-08 23:27:15,775 :INFO :test_homepage :Name is Pranay
+2022-02-08 23:27:15,775 :INFO :test_homepage :Email is pranay.ravula@gmail.com
+2022-02-08 23:27:15,775 :INFO :test_homepage :Password is Pranay@12
+2022-02-08 23:27:16,529 :INFO :test_homepage :Name is Uday
+2022-02-08 23:27:16,529 :INFO :test_homepage :Name is Uday
+2022-02-08 23:27:16,529 :INFO :test_homepage :Email is uday.ravula@gmail.com
+2022-02-08 23:27:16,529 :INFO :test_homepage :Email is uday.ravula@gmail.com
+2022-02-08 23:27:16,529 :INFO :test_homepage :Password is Uday@12
+2022-02-08 23:27:16,529 :INFO :test_homepage :Password is Uday@12

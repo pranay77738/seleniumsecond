@@ -1,0 +1,28 @@
+2022-02-09 11:35:19,672 :INFO :test_ene :getting all the card titles
+2022-02-09 11:35:20,709 :INFO :test_ene :iphone X
+2022-02-09 11:35:20,782 :INFO :test_ene :Samsung Note 8
+2022-02-09 11:35:20,800 :INFO :test_ene :Nokia Edge
+2022-02-09 11:35:20,818 :INFO :test_ene :Blackberry
+2022-02-09 11:35:20,934 :INFO :test_ene :entering country name as ind
+2022-02-09 11:35:26,305 :INFO :test_ene :text received from the browser×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-02-09 11:35:29,497 :INFO :test_homepage :Name is Uday
+2022-02-09 11:35:29,497 :INFO :test_homepage :Email is uday.ravula@gmail.com
+2022-02-09 11:35:29,497 :INFO :test_homepage :Password is Uday@12
+2022-02-09 11:37:09,119 :INFO :test_ene :getting all the card titles
+2022-02-09 11:37:10,159 :INFO :test_ene :iphone X
+2022-02-09 11:37:10,220 :INFO :test_ene :Samsung Note 8
+2022-02-09 11:37:10,242 :INFO :test_ene :Nokia Edge
+2022-02-09 11:37:10,259 :INFO :test_ene :Blackberry
+2022-02-09 11:37:10,377 :INFO :test_ene :entering country name as ind
+2022-02-09 11:37:15,761 :INFO :test_ene :text received from the browser×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-02-09 11:37:18,906 :INFO :test_homepage :Name is Pranay
+2022-02-09 11:37:18,906 :INFO :test_homepage :Email is pranay.ravula@gmail.com
+2022-02-09 11:37:18,906 :INFO :test_homepage :Password is Pranay@12
+2022-02-09 11:37:19,644 :INFO :test_homepage :Name is Uday
+2022-02-09 11:37:19,644 :INFO :test_homepage :Name is Uday
+2022-02-09 11:37:19,644 :INFO :test_homepage :Email is uday.ravula@gmail.com
+2022-02-09 11:37:19,644 :INFO :test_homepage :Email is uday.ravula@gmail.com
+2022-02-09 11:37:19,645 :INFO :test_homepage :Password is Uday@12
+2022-02-09 11:37:19,645 :INFO :test_homepage :Password is Uday@12
