@@ -35,7 +35,7 @@ jobs:
     name: Deploy Application
     runs-on: ubuntu-latest
     needs: test  # Run only if test job succeeds
-    if: github.ref == 'refs/heads/main'
+    if: github.ref == 'refs/heads/master'
 
     steps:
       - name: Checkout Code
