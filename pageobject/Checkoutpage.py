@@ -9,6 +9,7 @@ class Checkoutpage:
 
     cart_items = (By.XPATH, "//table[@class='table table-hover']/tbody/tr/td/div/div/h4")
     confirm_checkout = (By.CSS_SELECTOR, "button[class='btn btn-success']")
+    # Pranay kumar
 
     def get_cartiems(self):
         return self.driver.find_elements(*Checkoutpage.cart_items)
