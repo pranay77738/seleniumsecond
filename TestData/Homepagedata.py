@@ -1,6 +1,3 @@
-import openpyxl
-
-
 class HomePageData:
     homepage_test_data = [
         {"name": "Pranay", "email": "pranay.ravula@gmail.com", "password": "Pranay@12"},
