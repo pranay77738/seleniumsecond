@@ -29,7 +29,7 @@ jobs:
 
       - name: Run Tests
         run: |
-          pytest
+          pytest/tests
 
   deploy:
     name: Deploy Application
