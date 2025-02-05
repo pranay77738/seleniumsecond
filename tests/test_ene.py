@@ -6,7 +6,6 @@ from utilities.Baseclass import Baseclass
 # @pytest.mark.usefixtures("setup")
 class TestEndtoEnd(Baseclass):
     def test_ene(self):
-
         log = self.test_logging()
         homepage = Homepage(self.driver)
         self.driver.refresh()
@@ -42,6 +41,6 @@ class TestEndtoEnd(Baseclass):
         confirmpage.select_chekbox().click()
         confirmpage.select_purchase().click()
         mess = confirmpage.get_message().text
-        log.info("text received from the browser"+mess)
+        log.info("text received from the browser" + mess)
         assert "Success" in mess
         # driver.get_screenshot_as_file("scren.png")

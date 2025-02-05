@@ -21,5 +21,3 @@ class Shoppage:
         self.driver.find_element(*Shoppage.checkout).click()
         checkoutpage = Checkoutpage(self.driver)
         return checkoutpage
-
-

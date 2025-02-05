@@ -13,11 +13,11 @@ class Homepage:
     password = (By.XPATH, "//input[@class='form-control']")
     checkbox = (By.CSS_SELECTOR, "input[class='form-check-input']")
     dropdown = (By.ID, "exampleFormControlSelect1")
-    radiobtn = (By.ID,"inlineRadio2")
-    bdy = (By.NAME,"bday")
+    radiobtn = (By.ID, "inlineRadio2")
+    bdy = (By.NAME, "bday")
     submit = (By.XPATH, "//input[@value='Submit']")
-    msg = (By.CLASS_NAME ,"alert-success")
-    shp = (By.LINK_TEXT,"Shop")
+    msg = (By.CLASS_NAME, "alert-success")
+    shp = (By.LINK_TEXT, "Shop")
 
     def get_name(self):
         return self.driver.find_element(*Homepage.name)
@@ -50,6 +50,3 @@ class Homepage:
         self.driver.find_element(*Homepage.shp).click()
         shoppage = Shoppage(self.driver)
         return shoppage
-
-
-

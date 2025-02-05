@@ -7,7 +7,10 @@ class Checkoutpage:
     def __init__(self, driver):
         self.driver = driver
 
-    cart_items = (By.XPATH, "//table[@class='table table-hover']/tbody/tr/td/div/div/h4")
+    cart_items = (
+        By.XPATH,
+        "//table[@class='table table-hover']/tbody/tr/td/div/div/h4",
+    )
     confirm_checkout = (By.CSS_SELECTOR, "button[class='btn btn-success']")
     # Pranay kumar
 

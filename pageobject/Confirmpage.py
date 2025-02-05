@@ -8,8 +8,8 @@ class Confirmpage:
     country = (By.ID, "country")
     confirm_country = (By.LINK_TEXT, "India")
     ck_box = (By.CSS_SELECTOR, "div[class='checkbox checkbox-primary']")
-    purchase = (By.CSS_SELECTOR , "input[type='submit']")
-    sucs_msg = (By.CLASS_NAME , "alert-success")
+    purchase = (By.CSS_SELECTOR, "input[type='submit']")
+    sucs_msg = (By.CLASS_NAME, "alert-success")
 
     def enter_country(self):
         return self.driver.find_element(*Confirmpage.country)

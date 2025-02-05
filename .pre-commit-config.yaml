@@ -1,0 +1,7 @@
+# .pre-commit-config.yaml
+repos:
+  - repo: https://github.com/psf/black
+    rev: 23.1.0  # Specify the version of black
+    hooks:
+      - id: black
+        language_version: python3.11  # Specify Python 3.11.8

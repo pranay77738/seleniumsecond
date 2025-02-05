@@ -5,14 +5,12 @@ from utilities.Baseclass import Baseclass
 
 
 class TestHomepage(Baseclass):
-
     def test_homepage(self, getData):
-
         log = self.test_logging()
         homepage = Homepage(self.driver)
-        log.info("Name is "+getData["name"])
-        log.info("Email is "+getData["email"])
-        log.info("Password is "+getData["password"])
+        log.info("Name is " + getData["name"])
+        log.info("Email is " + getData["email"])
+        log.info("Password is " + getData["password"])
         homepage.get_name().send_keys(getData["name"])
         homepage.get_email().send_keys(getData["email"])
         homepage.get_password().send_keys(getData["password"])
@@ -20,7 +18,7 @@ class TestHomepage(Baseclass):
 
         # dropdown = Select(homepage.get_dropdown())
         # dropdown.select_by_visible_text("Female")
-        self.selectoptionbytest(homepage.get_dropdown(),"Female")
+        self.selectoptionbytest(homepage.get_dropdown(), "Female")
 
         homepage.get_radiobtn().click()
 
@@ -33,5 +31,5 @@ class TestHomepage(Baseclass):
         self.driver.refresh()
 
     @pytest.fixture(params=HomePageData.homepage_test_data)
-    def getData(self,request):
+    def getData(self, request):
         return request.param
