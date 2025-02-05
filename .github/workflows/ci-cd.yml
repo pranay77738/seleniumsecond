@@ -29,7 +29,8 @@ jobs:
 
       - name: Run Tests
         run: |
-          pytest/tests
+          pytest tests/
+        if: ${{ github.event_name == 'push' }}
 
   deploy:
     name: Deploy Application
